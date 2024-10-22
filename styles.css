@@ -1,0 +1,38 @@
+body{
+    font-family: "Garamond", sans-serif;
+}
+
+.page-heading{
+    font-size: 50px;
+    text-align: center;
+}
+
+.food-category{
+    font-size: 30px;
+}
+
+.desserts{
+    background-color: purple;
+}
+
+.pasta{
+    background-color: red;
+}
+
+.soups{
+    background-color: blue;
+}
+
+.recipe-links{
+    font-size: 25px;
+}
+
+img {
+    height: 310px;
+    width: auto;
+}
+
+.sub-heading{
+    font-size: 30px;
+    text-align: center;
+}
